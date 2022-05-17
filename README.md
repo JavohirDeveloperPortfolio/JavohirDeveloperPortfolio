@@ -12,6 +12,10 @@
 <b>⚡ My Projects(soon)</b>
 <hr>
 - <a href="https://github.com/JavohirDeveloperPortfolio/Streams-with-unit-testing-example">Stream and unit test (simple project)</a><br><br>
+- We are creating new project which name is OliyMahad for <a href="https://oliymahad.uz/en/">Tashkent Islamic Institute named after Imam Bukhari</a> using SpringBoot (with microservice) with our team.<br>
+  1) <a href="https://github.com/JavohirDeveloperPortfolio/User-Section-of-Oliy-Mahad-project">first part</a><br>
+  2) <a href="https://github.com/JavohirDeveloperPortfolio/Course-section-of-Oliy-Mahad-project">second part </a><br>
+  3) ...<br><br>
 
 <b>⚡ My Articles(soon)</b>
 <hr>
