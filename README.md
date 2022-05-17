@@ -11,7 +11,7 @@
 
 <b>⚡ My Projects(soon)</b>
 <hr>
-- <a href="https://github.com/JavohirDeveloperPortfolio/Streams-with-unit-testing-example">Stream and unit test (simple project)</a><br>
+- <a href="https://github.com/JavohirDeveloperPortfolio/Streams-with-unit-testing-example">Stream and unit test (simple project)</a><br><br>
 
 <b>⚡ My Articles(soon)</b>
 <hr>
